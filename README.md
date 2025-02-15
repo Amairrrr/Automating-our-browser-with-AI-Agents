@@ -16,20 +16,6 @@ This project utilizes AI agents to automate repetitive browser tasks such as web
 - **Web Framework:** FastAPI
 - **Other Tools:** Uvicorn, Jinja2, dotenv
 
-## 📂 Folder Structure
-```
-project-root/
-│── src/
-│   ├── agents/
-│   ├── config/
-│   ├── utils/
-│── tests/
-│── public/
-│── .env.example
-│── package.json
-│── README.md
-```
-
 ## 🛠️ Installation & Setup
 ### Prerequisites
 - 300MB of available storage
