@@ -46,6 +46,7 @@ This project focuses on leveraging AI-driven automation to streamline repetitive
 #### Mac Users:
 ```sh
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+```sh
 brew install python
 brew install pip
 brew install uv
